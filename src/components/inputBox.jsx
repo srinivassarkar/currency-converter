@@ -27,7 +27,7 @@ function inputBox({
         <input
           type="number"
           className="outline-none w-full bg-transparent py-1.5"
-          placeholder="Amount"
+          placeholder="Enter amount"
           disabled={amountDisabled}
           value={amount}
           onChange={(e) =>
