@@ -24,18 +24,7 @@ This is a currency converter application built using Vite, React.js, and Tailwin
 
 - **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
 
-**How to Use:**
 
-1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Run the app with `npm run dev`.
-4. Open the app in your browser and start converting currencies!
-
-Feel free to explore the codebase to learn about React.js, `useState`, `useEffect`, custom hooks, and state management in a real-world application.
-
-**Contributions:**
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 Happy coding! 🚀
 
