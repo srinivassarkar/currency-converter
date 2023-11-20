@@ -14,7 +14,7 @@ This is a currency converter application built using Vite, React.js, and Tailwin
 
 - **State Management:** Utilizes React's `useState` for managing component-level state and `useEffect` for handling side effects such as fetching data.
 
-- **Custom Hooks:** Implements custom React hooks for encapsulating logic and creating reusable functionalities, promoting clean and maintainable code.
+- **Custom Hooks:** Implements custom React hooks, including the `useCurrencyInfo` hook for encapsulating logic and creating reusable functionalities, promoting clean and maintainable code. Additionally, uses the `useId` hook for managing unique identifiers.
 
 **Tech Stack:**
 
